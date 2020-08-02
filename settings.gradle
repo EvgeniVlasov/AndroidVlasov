@@ -1,0 +1,2 @@
+rootProject.name='AndroidVlasov'
+include ':app'
